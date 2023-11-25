@@ -3,7 +3,7 @@
     {
       "name": "public test",
       "setup": "make sudoku",
-      "run": "./test.sh",
+      "run": "bash test.sh",
       "input": "",
       "output": "",
       "comparison": "exact",
